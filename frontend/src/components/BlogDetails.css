@@ -1,0 +1,26 @@
+.blog-details {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.blog-details .card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.blog-details .card-body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #343a40;
+}
+
+.blog-details h5 {
+  margin: 0;
+  font-weight: 600;
+}
+
+.blog-details button {
+  font-size: 0.8rem;
+}
